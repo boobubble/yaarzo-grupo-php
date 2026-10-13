@@ -1,0 +1,23 @@
+body *
+{
+scrollbar-width: thin;
+scrollbar-color: var(--chat-page-senary-bg-color) var(--chat-page-septenary-bg-color);
+}
+
+body *::-webkit-scrollbar
+{
+width: 8px;
+height: 8px;
+}
+
+body *::-webkit-scrollbar-track
+{
+background: var(--chat-page-septenary-bg-color);
+}
+
+body *::-webkit-scrollbar-thumb
+{
+background-color: var(--chat-page-senary-bg-color);
+border-radius: 6px;
+border: 2px solid var(--chat-page-septenary-bg-color);
+}

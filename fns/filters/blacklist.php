@@ -1,0 +1,15 @@
+<?php 
+array_push($badwords,
+    'regex:f+[\\s._-]*u+[\\s._-]*c+[\\s._-]*k+[a-z]*',
+    'ass',
+    'dick',
+    'piss',
+    'asshole',
+    'bastard',
+    'bitch',
+    'bollocks',
+    'bugger',
+    'bullshit',
+    'crap',
+    'wank'
+);

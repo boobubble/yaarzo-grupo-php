@@ -1,0 +1,12 @@
+/include/config.php
+.env
+.env.*
+**/.env
+**/.env.*
+/uploads/
+/logs/
+*.log
+/fns/live_kit_sdk/firebase/php-jwt/README.md
+/fns/php_jwt/firebase/php-jwt/README.md
+/fns/push_notification/firebase_php/firebase/php-jwt/README.md
+/fns/sms_gateway/messagebird/firebase/php-jwt/README.md
